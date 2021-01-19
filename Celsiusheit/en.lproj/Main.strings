@@ -1,0 +1,21 @@
+
+/* Class = "UITextField"; placeholder = "Enter a temperature:"; ObjectID = "9Ae-E5-fSl"; */
+"9Ae-E5-fSl.placeholder" = "Enter a temperature:";
+
+/* Class = "UILabel"; text = " Result"; ObjectID = "CYG-Ur-v3z"; */
+"CYG-Ur-v3z.text" = " Result";
+
+/* Class = "UILabel"; text = "°C"; ObjectID = "L9V-ps-QNg"; */
+"L9V-ps-QNg.text" = "°C";
+
+/* Class = "UILabel"; text = "°F"; ObjectID = "UD5-tX-DrV"; */
+"UD5-tX-DrV.text" = "°F";
+
+/* Class = "UILabel"; text = "Temperature converter"; ObjectID = "W66-qf-fTS"; */
+"W66-qf-fTS.text" = "Temperature converter";
+
+/* Class = "UILabel"; text = "CELSIUSHEIT"; ObjectID = "jBR-ag-Cr7"; */
+"jBR-ag-Cr7.text" = "CELSIUSHEIT";
+
+/* Class = "UILabel"; text = "MADE BY CARLOS HORACIO GARCÍA CASTRILLÓN"; ObjectID = "oKZ-FI-pZ6"; */
+"oKZ-FI-pZ6.text" = "MADE BY CARLOS HORACIO GARCÍA CASTRILLÓN";

@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Celsiusheit
+
+  Created by Carlos on 21/12/20.
+  Copyright © 2020 UPV. All rights reserved.
+*/
+valor_no_valido=" Valor no válido ingrese de nuevo";
+resultado=" Resultado de %f°C es: %.4f°F";
+resultado1=" Resultado de %f°F es: %.4f°C";
+sin_datos=" No hay datos";
+localizable_text = " Titulo %@ (Codigo: %@)";
